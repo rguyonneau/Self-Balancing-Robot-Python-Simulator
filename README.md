@@ -10,6 +10,8 @@ This simulator has three files:
 
     main.py that uses OpenGL to display the robot and provides the menu to use the simulation
 
+Note that it is based on python 3.
+
 ## iballancingbot.py files
 
 This file provides the IBalancingBot class. This class contains a mathematical model for the self balancing robot. This model is extract from the article 'A Comparison of Controllers for Balancing Two wheeled Inverted Pendulum Robot' available here.
